@@ -6,24 +6,27 @@ public class Program
 	{
 		Console.WriteLine("Please input a number 1-10.");
 		int myGuess = 8;
-		int myNum = 7;
-		switch (myGuess)
+		int j = 7;
 		{
-			case myGuess == myNum:
-				Console.WriteLine("Congrats you found the correct number!");
-				break;
-			case myGuess < myNum:
-				Console.WriteLine("The number is higher than that.");
-				break;
-			case myGuess > myNum:
-				Console.WriteLine("The number is lower than that.");
-				break;
+			if (j != myGuess)
+				Console.WriteLine("Try Again");
+			else if (j == myGuess)
+				Console.WriteLine("That's correct!");
+		int myGuess2 = 6;
+			if (j != myGuess2)
+				Console.WriteLine("Try Again");
+			else if (j == myGuess2)
+				Console.WriteLine("That's correct!");
+		int myGuess3 = 7;
+			if (j != myGuess3)
+				Console.WriteLine("Try Again");
+			else if (j == myGuess3)
+				Console.WriteLine("That's correct!");
 		}
 		Console.WriteLine("Please enter your 3 favorite foods.");
-		string [] myFavs = {"Steak", "Potatoes", "Bacon"};
-		for (int i = 0; i < myFavs.Lengths; i++)
+		string[] myFavs = {"Steak", "Potatoes", "Bacon"};
 		{
-			Console.WriteLine(myFavs[i]);
+			Console.WriteLine(myFavs[0]);
 		}
 	}
 }
