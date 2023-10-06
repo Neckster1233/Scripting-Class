@@ -40,9 +40,10 @@ public class PlayerController : MonoBehaviour
     //Delete any object that hits the player
     /* Doesn't work for some reason
      testing out multiline comments
-    */
+    
     private void OnTriggerEnter(Collider other)
     {
         Destroy(other.gameObject);
     }
+    */
 }
