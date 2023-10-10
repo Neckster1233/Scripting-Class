@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class OutOfBounds : MonoBehaviour
 {
-    public float topBounds = 5.0f;
+    public float topBounds = 21.0f;
 
     public float bottomBounds = -10.0f;
 
     void Awake()
     {
-       // Time.timeScale = 1;
+       Time.timeScale = 1;
     }
     
     // Update is called once per frame
@@ -24,7 +24,7 @@ public class OutOfBounds : MonoBehaviour
         {
             Debug.Log("Game Over");
             Destroy(gameObject);
-            // Time.timeScael = 0;
+            Time.timeScale = 0;
         }
     }
 }
