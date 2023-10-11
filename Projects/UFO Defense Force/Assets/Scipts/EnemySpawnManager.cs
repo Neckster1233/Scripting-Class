@@ -5,14 +5,14 @@ using UnityEngine;
 public class EnemySpawnManager : MonoBehaviour
 {
 	public GameObject [] ufoPrefabs;
-	private float spawnRangex = 20f;
+	private float spawnRangex = 17.5f;
 	private float spawnposZ = 20f; 
 	private float startDelay = 2f;
-	private float StartInterval = 1.5f;
+	private float startInterval = 1.5f;
 
 	void Start()
 	{
-		InvokeRepeating("spawnRandomUFO", startDelay, StartInterval);
+		InvokeRepeating("spawnRandomUFO", startDelay, startInterval);
 	}
     // Update is called once per frame
     void Update()
