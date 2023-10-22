@@ -77,3 +77,135 @@ crashlytics-build.properties
 *.unity
 
 *.jpg
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 1.prefab
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 2.prefab
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/DropdownSample.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextInfoDebugTool.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Sprites/Default Sprites.png
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Sprites/DropCap Numbers.psd
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text Image 1.png
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text UI Screenshot.png
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Diagonal.psd
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Double.psd
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Quad.psd
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Shaders/TMPro.cginc
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Sprites/EmojiOne.json
+
+Projects/UFO Defense Force/Assets/TextMesh Pro/Sprites/EmojiOne.png
+
+Projects/UFO Defense Force/Lab4c/.DS_Store
