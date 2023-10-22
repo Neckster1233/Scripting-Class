@@ -11,6 +11,12 @@ public class PlayerController : MonoBehaviour
     public float xRange;
     public Transform blaster;
     public GameObject laser;
+    public GameManager gameManager;
+
+    void start()
+    {
+        gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
+    }
     
 
     // Update is called once per frame
@@ -37,13 +43,4 @@ public class PlayerController : MonoBehaviour
             Instantiate( laser, blaster.transform.position, laser.transform.rotation);
         }    
     }
-    //Delete any object that hits the player
-    /* Doesn't work for some reason
-     testing out multiline comments
-    
-    private void OnTriggerEnter(Collider other)
-    {
-        Destroy(other.gameObject);
-    }
-    */
 }
