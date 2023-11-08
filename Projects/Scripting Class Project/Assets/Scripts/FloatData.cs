@@ -1,13 +1,12 @@
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "New Float Data", menuName = "Float Data")]
+[CreateAssetMenu]
 public class FloatData : ScriptableObject
 {
-    [SerializeField] private float value;
+    public float value;
 
-    public float Value
+    public void UpdateValue(float num)
     {
-        get { return value; }
-        set { this.value = value; }
+        value += num;
     }
 }
