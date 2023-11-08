@@ -9,4 +9,16 @@ public class TriggerEventsBehavior : MonoBehaviour
     {
         triggerEnterEvent.Invoke();
     }
+
+    public ParticleSystem particleSystem;
+
+    private void Start()
+    {
+        particleSystem.Stop(); // Make sure that the particle system is initally stopped
+    }
+
+    public void PlayParticles()
+    {
+        particleSystem.Play();
+    }
 }
